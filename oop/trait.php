@@ -11,4 +11,5 @@ class sample{
     use logger;
 }
 
+echo  "hello word:";
 (new sample())->log("ample data");
